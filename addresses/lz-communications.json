@@ -1,0 +1,28 @@
+{
+  "bscTestnet": {
+    "address": "0xc1d4De6Bca322880c30c5e50fD3b881A63C19Ef9",
+    "chanId": 97,
+    "lzChainId": 10002
+  },
+  "fuji": {
+    "address": "0x31AAb1257d04Ae4e9BA5139Af198804F20494401",
+    "chanId": 43113,
+    "lzChainId": 10006
+  },
+  "masterchain": {
+    "isMaster": true,
+    "address": "0x2E881DEF39F9E80548dc6F28282cE4A3DA0d13c7",
+    "chanId": 4,
+    "lzChainId": 10001
+  },
+  "rinkeby": {
+    "address": "0x512A32A869c7ff8aaAF388FafED8C30A8Be35d58",
+    "chanId": 4,
+    "lzChainId": 10001
+  },
+  "mumbai": {
+    "address": "0xBa39E2D779258Ad470EDba683fEc5F75D8FeAA07",
+    "chanId": 80001,
+    "lzChainId": 10009
+  }
+}
